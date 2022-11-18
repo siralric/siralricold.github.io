@@ -1,0 +1,2 @@
+cd siralric.github.io
+echo "Hello World" > index.html
